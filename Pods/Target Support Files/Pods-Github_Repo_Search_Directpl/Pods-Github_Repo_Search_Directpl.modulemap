@@ -1,0 +1,6 @@
+module Pods_Github_Repo_Search_Directpl {
+  umbrella header "Pods-Github_Repo_Search_Directpl-umbrella.h"
+
+  export *
+  module * { export * }
+}

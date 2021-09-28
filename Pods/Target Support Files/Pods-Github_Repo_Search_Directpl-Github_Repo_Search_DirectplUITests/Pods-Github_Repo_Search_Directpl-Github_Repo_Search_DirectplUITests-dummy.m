@@ -1,0 +1,5 @@
+#import <Foundation/Foundation.h>
+@interface PodsDummy_Pods_Github_Repo_Search_Directpl_Github_Repo_Search_DirectplUITests : NSObject
+@end
+@implementation PodsDummy_Pods_Github_Repo_Search_Directpl_Github_Repo_Search_DirectplUITests
+@end
